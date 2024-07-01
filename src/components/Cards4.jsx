@@ -8,7 +8,7 @@ const Cards4 = ({filteredItems}) => {
         filteredItems.map((item) =>(
             <div key={item.id}>
             <Link to={`/clotheshop/${item.id}`}>
-             <img src={item.image} alt="unknown" className='mx-auto w-[374px] h-[480px] hover:scale-100 transition-all duration-300'/>
+             <img src={item.image} alt="unknown" className='mx-auto w-[374px] h-[480px] hover:scale-100 transition-all duration-300 object-cover'/>
             </Link>
                <div className="mt-4 px-4">
                  <h4 className='text-base font-semibold mb-2'>{item.title}</h4>

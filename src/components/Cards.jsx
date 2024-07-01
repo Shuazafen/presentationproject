@@ -9,7 +9,7 @@ const Cards = ({filteredItems}) => {
     filteredItems.map((item) =>(
       <div key={item.id}>
      <Link to={`/shop/${item.id}`}>
-      <img src={item.image} alt="unknown" className='mx-auto w-full hover:scale-100 transition-all duration-300'/>
+      <img src={item.image} alt="unknown" className='mx-auto w-full hover:scale-100 transition-all duration-300 '/>
      </Link>
         <div className="mt-4 px-4">
           <h4 className='text-base font-semibold mb-2'>{item.title}</h4>
