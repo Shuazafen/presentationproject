@@ -1,0 +1,72 @@
+[
+    {
+        "id" : "1",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image1.jpg"
+    },
+    {
+        "id" : "2",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image2.jpg"
+    },
+    {
+        "id" : "3",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image3.jpg"
+    },
+    {
+        "id" : "4",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image4.jpg"
+    },
+    {
+        "id" : "5",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image5.jpg"
+    },
+    {
+        "id" : "6",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image6.jpg"
+    },
+    {
+        "id" : "7",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image7.jpg"
+    },
+    {
+        "id" : "8",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image8.jpg"
+    },
+    {
+        "id" : "9",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image9.jpg"
+    },
+    {
+        "id" : "10",
+        "price": "100.60",
+        "title": "",
+        "category": "arts",
+        "image": "/public/images/arts-images/image10.jpg"
+    }
+]

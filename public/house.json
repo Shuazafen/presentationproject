@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image1.jpg",
+        "category": "household"
+    },
+    {
+        "id": "2",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image2.jpg",
+        "category": "household"
+    },
+    {
+        "id": "3",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image3.jpg",
+        "category": "household"
+    },
+    {
+        "id": "4",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image4.jpg",
+        "category": "household"
+    },
+    {
+        "id": "5",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image5.jpg",
+        "category": "household"
+    },
+    {
+        "id": "6",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image6.jpg",
+        "category": "household"
+    },
+    {
+        "id": "7",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image7.jpg",
+        "category": "household"
+    },
+    {
+        "id": "8",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image8.jpg",
+        "category": "household"
+    },
+    {
+        "id": "9",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image9.jpg",
+        "category": "household"
+    },
+    {
+        "id": "10",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image10.jpg",
+        "category": "household"
+    },
+    {
+        "id": "11",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image11.jpg",
+        "category": "household"
+    },
+    {
+        "id": "12",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image12.jpg",
+        "category": "household"
+    },
+    {
+        "id": "13",
+        "status": "new-iitems",
+        "price": 234.54,
+        "image": "/images/house-images/image13.jpg",
+        "category": "household"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "1",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image1.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "2",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image2.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "3",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image3.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "4",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image4.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "5",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image5.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "6",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image6.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "7",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image7.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "8",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image8.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "9",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image9.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "10",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image10.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "11",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image11.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "12",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image12.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "13",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image13.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    },
+    {
+        "id": "14",
+        "title": "Dress",
+        "status": "Cloths",
+        "image": "/images/clothing-images/image9.jpg",
+        "price": "212.10",
+        "category": "clothe"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "image": "/images/wedding-images/image1.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "2",
+        "image": "/images/wedding-images/image2.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "3",
+        "image": "/images/wedding-images/image3.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "4",
+        "image": "/images/wedding-images/image4.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "5",
+        "image": "/images/wedding-images/image5.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "6",
+        "image": "/images/wedding-images/image6.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "7",
+        "image": "/images/wedding-images/image7.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "8",
+        "image": "/images/wedding-images/image8.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "9",
+        "image": "/images/wedding-images/image9.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    },
+    {
+        "id": "10",
+        "image": "/images/wedding-images/image10.jpg",
+        "category": "Suits",
+        "title": "wedding suits",
+        "price": "213.34"
+    }
+]

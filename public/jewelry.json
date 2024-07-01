@@ -1,0 +1,211 @@
+[
+    {
+        "id": "1",
+        "image": "/images/jewelry-images/image1.jpg",
+        "status": "jewelry",
+        "title": "Gold Rings 3-sets",
+        "price": 150.45,
+        "category": "Ring"
+    },
+    {
+        "id": "2",
+        "image": "/images/jewelry-images/image2.jpg",
+        "status": "jewelry",
+         "title": "Diamond Ring",
+        "price": 310.00,
+        "category": "Ring"
+    },
+    {
+        "id": "3",
+        "image": "/images/jewelry-images/image3.jpg",
+        "status": "jewelry",
+        "title": "Emerald Ring",
+        "price": 245.50,
+        "category": "Ring"
+    },
+    {
+        "id": "4",
+        "image": "/images/jewelry-images/image4.jpg",
+        "status": "accessories",
+        "title": "Hand bag",
+        "price": 115.30,
+        "category": "Bag"
+    },
+    {
+        "id": "5",
+        "image": "/images/jewelry-images/image5.jpg",
+        "status": "accessories",
+        "title": "Giorgio Armani",
+        "price": 75.00,
+        "category": "Watch"
+    },
+    {
+        "id": "6",
+        "image": "/images/jewelry-images/image6.jpg",
+        "status": "accessories",
+        "title": "Dark shades",
+        "price": 25.45,
+        "category": "Glasses"
+    },
+    {
+        "id": "7",
+        "image": "/images/jewelry-images/image7.jpg",
+        "status": "jewelry",
+        "title": "Silver rings 2-sets",
+        "price": 100.00,
+        "category": "Ring"
+    },
+    {
+        "id": "8",
+        "image": "/images/jewelry-images/image8.jpg",
+        "status": "accessories",
+        "title": "Red bag",
+        "price": 145.45,
+        "category": "Bag"
+    },
+    {
+        "id": "9",
+        "image": "/images/jewelry-images/image9.jpg",
+        "status": "jewelry",
+        "title": "Emerald neck-lace",
+        "price": 145.45,
+        "category": "Neck-lace"
+    },
+    {
+        "id": "10",
+        "image": "/images/jewelry-images/image10.jpg",
+        "status": "jewelry",
+        "title": "sapphire ear-rings",
+        "price": 145.45,
+        "category": "Ear-rings"
+    },
+    {
+        "id": "11",
+        "image": "/images/jewelry-images/image11.jpg",
+        "status": "accessories",
+        "title": "Red school-bag",
+        "price": 145.45,
+        "category": "Bag"
+    },
+    {
+        "id": "12",
+        "image": "/images/jewelry-images/image12.jpg",
+        "status": "jewelry",
+        "title": "Gold Rings 2-sets",
+        "price": 145.45,
+        "category": "Ring"
+    },
+    {
+        "id": "13",
+        "image": "/images/jewelry-images/image13.jpg",
+        "status": "jewelry",
+        "title": "Diamond Ring",
+        "price": 145.45,
+        "category": "Ring"
+    },
+    {
+        "id": "15",
+        "image": "/images/jewelry-images/image15.jpg",
+        "status": "jewelry",
+        "title": "sapphire ring",
+        "price": 145.45,
+        "category": "Ring"
+    },
+    {
+        "id": "16",
+        "image": "/images/jewelry-images/image16.jpg",
+        "status": "jewelry",
+        "title": "Diamond Ring",
+        "price": 145.45,
+        "category": "Ring"
+    },
+    {
+        "id": "17",
+        "image": "/images/jewelry-images/image17.jpg",
+        "status": "jewelry",
+        "title": "silver tree pendant",
+        "price": 145.45,
+        "category": "Neck-lace"
+    },
+    {
+        "id": "18",
+        "image": "/images/jewelry-images/image18.jpg",
+        "status": "accessories",
+        "title": "photocromic",
+        "price": 145.45,
+        "category": "Glasses"
+    },
+    {
+        "id": "19",
+        "image": "/images/jewelry-images/image19.jpg",
+        "status": "accessories",
+        "title": "calithe",
+        "price": 145.45,
+        "category": "Watch"
+    },
+    {
+        "id": "20",
+        "image": "/images/jewelry-images/image20.jpg",
+        "status": "jewelry",
+        "title": "Golden chain",
+        "price": 145.45,
+        "category": "Neck-lace"
+    },
+    {
+        "id": "21",
+        "image": "/images/jewelry-images/image21.jpg",
+        "status": "accessories",
+        "title": "photocromic glasses",
+        "price": 145.45,
+        "category": "Glasses"
+    },
+    {
+        "id": "22",
+        "image": "/images/jewelry-images/image22.jpg",
+        "status": "accessories",
+        "title": "Brown hand-bag",
+        "price": 145.45,
+        "category": "Bag"
+    },
+    {
+        "id": "23",
+        "image": "/images/jewelry-images/image23.jpg",
+        "status": "accessories",
+        "title":"Rolex oceanmaster",
+        "price": 145.45,
+        "category": "Watch"
+    },
+    {
+        "id": "24",
+        "image": "/images/jewelry-images/image24.jpg",
+        "status": "accessories",
+        "title": "Reading glasses",
+        "price": 145.45,
+        "category": "Glasses"
+    },
+    {
+        "id": "25",
+        "image": "/images/jewelry-images/image25.jpg",
+        "status": "accessories",
+        "title": "smart watch",
+        "price": 145.45,
+        "category": "Watch"
+    },
+    {
+        "id": "26",
+        "image": "/images/jewelry-images/image26.jpg",
+        "status": "accessories",
+        "title": "Certina",
+        "price": 145.45,
+        "category": "Watch"
+    },
+    {
+        "id": "27",
+        "image": "/images/jewelry-images/image27.jpg",
+        "status": "accessories",
+        "title": "Gold chain 3-sets",
+        "price": 145.45,
+        "category": "Neck-lace"
+    }
+   
+]
